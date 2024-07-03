@@ -9,7 +9,7 @@
 <body>
   <div class="wrapper">
     <section class="form login">
-      <header>Ask Me Anything</header>
+      <header>Real Time ChatApp</header>
       <form action="#" method="POST" enctype="multipart/form-data" autocomplete="off">
         <div class="error-text"></div>
         <div class="field input">
